@@ -11,6 +11,11 @@ library
 See the **example** directory for usage.  The example may need *root*
 permission to access the GPIO pins.
 
+# Setup
+
+Here's a typical hardware setup:
+![alt text](https://drive.google.com/open?id=0B0sQhgOyZZBsWGdDdkdpY2xPNUE)
+
 # Copyright
 
 Each file contains its own copyright notice by the authors.
