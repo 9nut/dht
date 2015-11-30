@@ -14,8 +14,7 @@ permission to access the GPIO pins.
 # Setup
 
 Here's a typical hardware setup:
-![alt text](https://drive.google.com/file/d/0B0sQhgOyZZBsWGdDdkdpY2xPNUE/view?usp=sharing)
-
+![file_000](https://cloud.githubusercontent.com/assets/616755/11465492/fcdf23e4-96ed-11e5-8325-ba12bbbdc248.jpeg)
 # Copyright
 
 Each file contains its own copyright notice by the authors.
